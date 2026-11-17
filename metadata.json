@@ -1,0 +1,6 @@
+{
+  "name": "RelayRoom — Real-Time Global Chat",
+  "description": "A real-time global and private messaging platform with live user presence, chat requests, and WebSocket communication.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
